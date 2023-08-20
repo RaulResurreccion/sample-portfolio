@@ -1,8 +1,4 @@
 title: Raul Resurreccion
 logo: Image/RDR Headshot.png
 description: ServiceNow Certified Systems Administrator, SQL, Sharepoint, Power BI, Power Apps, Python
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/raul-resurreccion-b7304081/"
 theme: jekyll-theme-minimal
