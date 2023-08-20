@@ -3,16 +3,33 @@ Result-oriented with a deep understanding of end-to-end product delivery from sc
 Experienced Data Analyst helping the Marketing and Sales team to make data-driven decisions. [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25">](https://www.linkedin.com/in/raul-resurreccion-b7304081)
 
 ### Work Experience
-JTI GBS - Poland, Process Analyst Manager, May 2012 - present <br />
+Process Analyst Manager @ JTI GBS - Poland
+- Transition Marketing & Sales Reporting, and New Product Development business processes from JTI Markets to JTI GBS
+- Lead support for Marketing & Sales and Cross Functional products Service Management in ServiceNow platform
+- Lead support for ServiceNow Project Portfolio Management (PPM)
+- Lead the nationwide implementation of JTI Phils. Sales Force Automation
+- Develop and implement Excel and Power BI reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market)
+  
 Coca-Cola Beverage Philippines Inc, RED Senior Specialist, May 2001 – April 2012
+- Lead the nationwide implementation of Right Execution Daily (RED) a mobile solution that measures the level of execution of marketing and sales strategies
+- Sequel Server Analysis Service (SSAS) OLAP cubes administration
+- Develop and implement Distrbutor Partner Factbook management
+- Develop and implement Excel reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market) 
 
-### Sample Power BI Reports
-![sample report](Image/PR_Channel.png)
+### Sample Sales Analysis Power BI Reports
 
-![sample report](Image/PR_Discount.png)
+![Power BI](Image/PR_Channel.png)
 
-![sample report](Image/PR_Trend.png)
+![Power BI](Image/PR_Discount.png)
 
-![sample report](Image/PR_Account_Trend.png)
+![Power BI](Image/PR_Trend.png)
+
+![Power BI](Image/PR_Account_Trend.png)
+
+### Sample User Acceptance Testing Power BI Reports
+
+### Sample KPI Excel Reports
+
+### Sample Sharepoint Site
 
 ###### End
