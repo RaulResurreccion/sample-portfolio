@@ -15,5 +15,4 @@ Process Analyst Manager
 
 ![sample report](Image/PR_Account_Trend.png)
 
-
 ###### End
