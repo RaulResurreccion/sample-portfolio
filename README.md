@@ -10,7 +10,7 @@ Process Analyst Manager @ JTI GBS - Poland
 - Lead the nationwide implementation of JTI Phils. Sales Force Automation
 - Develop and implement Excel and Power BI reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market)
   
-Coca-Cola Beverage Philippines Inc, RED Senior Specialist, May 2001 – April 2012
+RED Senior Specialist @ Coca-Cola Bottlers Philippines Inc.
 - Lead the nationwide implementation of Right Execution Daily (RED) a mobile solution that measures the level of execution of marketing and sales strategies
 - Sequel Server Analysis Service (SSAS) OLAP cubes administration
 - Develop and implement Distrbutor Partner Factbook management
