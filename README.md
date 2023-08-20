@@ -6,5 +6,5 @@ Bachelor of Science in Business Administration major in Marketing
 ### Work Experience
 Process Analyst Manager
 
-![sample report] (/Image/PR_Channel.png) 
+![/Image/PR_Channel.png]
 
