@@ -11,4 +11,9 @@ Process Analyst Manager
 
 ![sample report](Image/PR_Discount.png)
 
+![sample report](Image/PR_Trend.png)
+
+![sample report](Image/PR_Account_Trend.png)
+
+
 ###### End
