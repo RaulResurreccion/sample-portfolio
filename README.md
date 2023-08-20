@@ -3,10 +3,10 @@ Result-oriented with a deep understanding of end-to-end product delivery from sc
 Experienced Data Analyst helping the Marketing and Sales team to make data-driven decisions. 
 
 ### Work Experience
-JTI - GBS Poland 
-Process Analyst Manager
+JTI GBS - Poland, Process Analyst Manager, May 2012 - present
+Coca-Cola Beverage Philippines Inc, RED Senior Specialist, May 2001 – April 2012
 
-### Sample Reports
+### Sample Power BI Reports
 ![sample report](Image/PR_Channel.png)
 
 ![sample report](Image/PR_Discount.png)
