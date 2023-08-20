@@ -2,7 +2,7 @@
 Result-oriented with a deep understanding of end-to-end product delivery from scoping to deployment, project management, client engagement, collaboration skills demonstrated over the course of the project, and the ability to liaise with clients to understand underlying needs and propose unique innovative solutions to address business needs.
 Experienced Data Analyst helping the Marketing and Sales team to make data-driven decisions. 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/raul-resurreccion-b7304081/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/raul-resurreccion-b7304081/)
 
 
 ### Work Experience
