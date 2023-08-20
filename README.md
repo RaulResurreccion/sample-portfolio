@@ -4,6 +4,7 @@ Experienced Data Analyst helping the Marketing and Sales team to make data-drive
 
 ### Work Experience
 JTI GBS - Poland, Process Analyst Manager, May 2012 - present
+###
 Coca-Cola Beverage Philippines Inc, RED Senior Specialist, May 2001 – April 2012
 
 ### Sample Power BI Reports
