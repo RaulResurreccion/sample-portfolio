@@ -16,7 +16,7 @@ RED Senior Specialist @ Coca-Cola Bottlers Philippines Inc.
 - Develop and implement Distrbutor Partner Factbook management
 - Develop and implement Excel reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market) 
 
-### Sample Sales Analysis Power BI Reports
+### Sample Sales Operations Power BI Reports
 
 ![Power BI](Image/PR_Channel.png)
 
@@ -26,10 +26,18 @@ RED Senior Specialist @ Coca-Cola Bottlers Philippines Inc.
 
 ![Power BI](Image/PR_Account_Trend.png)
 
-### Sample User Acceptance Testing Power BI Reports
+![Power BI](Image/Coverage_Plan.png)
 
 ### Sample KPI Excel Reports
 
+![Excel](Image/Excel_Sales_KPI.png)
+
+![Excel](Image/Excel_Gross_Sales.png)
+
 ### Sample Sharepoint Site
+
+![Sharepoint](Image/Sharepoint_GBS.png)
+
+![Sharepoint](Image/Sharepoint_Stem.png)
 
 ###### End
