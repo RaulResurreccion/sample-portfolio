@@ -18,6 +18,7 @@ Business Analyst
 - Work directly with GBS Service Delivery Leads, Center Process Leads, and internal/external IT teams to ensure timely and quality solutions.
 
 Accomplishments:
+
 Led the successful consolidation and coordinated the seamless transition of Marketing and Sales Reporting and New Product Development Business Processes, 
 for over 60 JTI markets to JTI Global Business Services. Implemented MS Teams Integration, Knowledge Management, and Project Portfolio Management (PPM).
 
@@ -34,6 +35,7 @@ Senior Data Analyst
 -	Analyzed business and technology processes for improvement/efficiency.
 
 Accomplishments:
+
 Nationwide successful implementation of Sales Force Automation Solution (TME Lite) to Distributors and Direct Sales Operations. 
 Lead in the training of 1,200 salesmen and 200+ back-office users, combined DSO/DP. Co-author in the development of the DSO Customer Master Data Control Procedure. 
 Developed and implemented Power BI Sales KPI Dashboard.
