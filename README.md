@@ -1,20 +1,36 @@
 # Profile 
-Result-oriented with a deep understanding of end-to-end product delivery from scoping to deployment, project management, client engagement, collaboration skills demonstrated over the course of the project, and the ability to liaise with clients to understand underlying needs and propose unique innovative solutions to address business needs.
-Experienced Data Analyst helping the Marketing and Sales team to make data-driven decisions. [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25">](https://www.linkedin.com/in/raul-resurreccion-b7304081)
+A ServiceNow Certified Systems Administrator and forward-thinking Business Analyst professional, with extensive experience in end-to-end product delivery, project management, and fostering client engagement. Adept at collaborating with cross-functional teams to understand business needs and delivering innovative solutions. With a proven track record as a seasoned Data Analyst, I specialize in empowering Marketing and Sales teams through the implementation of Excel and Power BI dashboards for data-driven decision-making strategies. [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25">](https://www.linkedin.com/in/raul-resurreccion-b7304081)
 
 ### Work Experience
-Process Analyst Manager @ JTI GBS - Poland
-- Transition Marketing & Sales Reporting, and New Product Development business processes from JTI Markets to JTI GBS
-- Lead support for Marketing & Sales and Cross Functional products Service Management in ServiceNow platform
-- Lead support for ServiceNow Project Portfolio Management (PPM)
-- Lead the nationwide implementation of JTI Phils. Sales Force Automation
-- Develop and implement Excel and Power BI reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market)
-  
-RED Senior Specialist @ Coca-Cola Bottlers Philippines Inc.
-- Lead the nationwide implementation of Right Execution Daily (RED) a mobile solution that measures the level of execution of marketing and sales strategies
-- Sequel Server Analysis Service (SSAS) OLAP cubes administration
-- Develop and implement Distrbutor Partner Factbook management
-- Develop and implement Excel reporting solution (Sales Analysis and Forecasting, Inventory Management, Sales KPI, and Route-to-market) 
+Japan Tobacco International
+
+Business Analyst
+o	Identify and implement new functionalities to enhance Marketing and Sales and Cross-Functional business processes within the scope of GBS.
+o	Map identified business requirements to the solutions portfolio, leveraging core platforms’ latest functionalities and analytical capabilities where possible.
+o	Collaborate with GBS & BTS Marketing and Sales and Cross-Functional Teams to design solutions, configure systems, conduct ad-hoc analysis, and coordinate migration activities.
+o	Ensure a clear understanding of business requirements and provide appropriate solutions.
+o	Implement change requests, resolve incidents, and deliver projects/new releases.
+o	Prepare and maintain solution documentation, including configuration, business process flows, and training materials.
+o	Ensure end-users are up-to-date and knowledgeable of business processes, and best practices.
+o	Work directly with GBS Service Delivery Leads, Center Process Leads, and internal/external IT teams to ensure timely and quality solutions.
+
+Accomplishments:
+Led the successful consolidation and coordinated the seamless transition of Marketing and Sales Reporting and New Product Development Business Processes, for over 60 JTI markets to JTI Global Business Services. Implemented MS Teams Integration, Knowledge Management, and Project Portfolio Management (PPM).
+
+Senior Data Analyst
+o	Led the implementation and system administration of JTI’s main SFA (TME Lite) for Distributor Partners and Direct Sales, enhancing operational efficiency.
+o	Cultivated partnering mindset for effective Business Relationship Management (BRM).
+o	Conducted requirements gathering and development for operations, processes, policies, and projects.
+o	Wrote and enhanced SQL scripts to extract sales data, supporting marketing program development.
+o	Created Excel and Power BI reports/dashboards for Sales and Marketing teams to analyze KPIs, identify operational gaps, and ensure program effectiveness.
+o	Developed and implemented the Customer Master Review Process to maintain data accuracy.
+o	Co-authored direct sales operations Policies and Procedures for compliance and efficiency.
+o	Market Project Lead for JTI’s new Global Sales Force Automation System.
+o	Coached, mentored, motivated, and supervised team members.
+o	Analyzed business and technology processes for improvement/efficiency.
+
+Accomplishments:
+Nationwide successful implementation of Sales Force Automation Solution (TME Lite) to Distributors and Direct Sales Operations. Lead in the training of 1,200 salesmen and 200+ back-office users, combined DSO/DP. Co-author in the development of the DSO Customer Master Data Control Procedure. Developed and implemented Power BI Sales KPI Dashboard.
 
 ### Sample Sales Operations Power BI Reports
 
